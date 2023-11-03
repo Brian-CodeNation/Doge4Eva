@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Brian-CodeNation/Doge4Eva/static/css/main.b31ae42b.css",
+    "main.js": "/Brian-CodeNation/Doge4Eva/static/js/main.0a8bd451.js",
+    "static/media/dog-logo.PNG": "/Brian-CodeNation/Doge4Eva/static/media/dog-logo.0dd79351ef4c2264dcfd.PNG",
+    "index.html": "/Brian-CodeNation/Doge4Eva/index.html",
+    "main.b31ae42b.css.map": "/Brian-CodeNation/Doge4Eva/static/css/main.b31ae42b.css.map",
+    "main.0a8bd451.js.map": "/Brian-CodeNation/Doge4Eva/static/js/main.0a8bd451.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31ae42b.css",
+    "static/js/main.0a8bd451.js"
+  ]
+}
